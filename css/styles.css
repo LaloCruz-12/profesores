@@ -1,0 +1,22 @@
+html{
+    font-size: 80%;
+}
+
+body {
+        margin: 0;
+        padding: 0;
+        background:url(../img/fesaragon_torres.jpg) no-repeat center top;
+        backdrop-filter: blur(1px);
+        background-size: cover;
+        font-family: sans-serif;
+        height: 100vh;
+        font-size: 18px;
+}
+ 
+.navbar {
+	background-color: #fd7e14;
+}
+
+.btn{
+	background-color: #fd7e14;
+}
